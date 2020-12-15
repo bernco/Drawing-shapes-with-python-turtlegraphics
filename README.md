@@ -3,4 +3,4 @@ Turtle graphics.
 draws polygon from triangle (sides = 3) to decagon (sides = 10) with random colors.
 the sides length = 100.
 
-![polygons](angle-sketch.gif)
+![](poly-sketch.gif)![polygons](angle-sketch.gif)
